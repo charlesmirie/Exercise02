@@ -1,0 +1,8 @@
+F:\2021\TechnoBrain\Exercise02\Exercise02\bin\Debug\Exercise02.exe.config
+F:\2021\TechnoBrain\Exercise02\Exercise02\bin\Debug\Exercise02.exe
+F:\2021\TechnoBrain\Exercise02\Exercise02\bin\Debug\Exercise02.pdb
+F:\2021\TechnoBrain\Exercise02\Exercise02\bin\Debug\Exercise01.dll
+F:\2021\TechnoBrain\Exercise02\Exercise02\bin\Debug\Exercise01.pdb
+F:\2021\TechnoBrain\Exercise02\Exercise02\obj\Debug\Exercise02.csprojResolveAssemblyReference.cache
+F:\2021\TechnoBrain\Exercise02\Exercise02\obj\Debug\Exercise02.exe
+F:\2021\TechnoBrain\Exercise02\Exercise02\obj\Debug\Exercise02.pdb
